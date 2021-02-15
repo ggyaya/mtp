@@ -58,3 +58,4 @@ rm -rf /home/mtproxy
 ```bash
 bash /home/mtproxy/mtproxy.sh start > /dev/null 2>&1 &
 ```
+chmod +x /etc/rc.d/rc.local
